@@ -1,0 +1,132 @@
+"","country","disease","year","location","NUTS3","case_number","authors"
+"1","Italy","Chikungunya","2007","Ravenna","ITH57","217","Angelini P et al."
+"2","Italy","Chikungunya","2007","Ravenna","ITH57","217","Angelini P et al."
+"3","Italy","Chikungunya","2007","Ravenna","ITH57","166","Angelini R et al."
+"4","Italy","Chikungunya","2007","Ravenna","ITH57","204","Angelini R et al."
+"5","Italy","Dengue","2020","Treviso","ITH34","11","Barzon L et al."
+"6","France","Chikungunya","2017","Var","FRL05","7","Calba C at al."
+"7","Italy","Chikungunya","2007","Ravenna","ITH57","217","Caputo B et al."
+"8","Italy","Chikungunya","2017","Roma","ITI43","270",NA
+"9","France","Dengue","2022","Alpes-Maritimes","FRL03","34","Cochet A et al."
+"10","France","Dengue","2022","Var","FRL05","10",NA
+"11","France","Dengue","2022","Var","FRL05","7",NA
+"12","France","Dengue","2022","Hautes-Pyrenees","FRJ26","4",NA
+"13","France","Dengue","2022","Haute-Garonne","FRJ23","4",NA
+"14","France","Dengue","2022","Haute-Garonne","FRJ23","2",NA
+"15","France","Dengue","2022","Corse-du-Sud","FRM01","2",NA
+"16","France","Dengue","2022","Haute-Garonne","FRJ23","1",NA
+"17","France","Dengue","2022","Pyrenees-Orientales","FRJ15","1",NA
+"18","France","Chikungunya","2014","Herault","FRJ13","11","Delisle E et al."
+"19","France","Zika","2019","Alpes-Maritimes","FRL03","3","Giron S et al."
+"20","Croatia","Dengue","2010","Dubrovacko-neretvanska zupanija","HR037","9","Gjenero-Margan et al."
+"21","France","Dengue","2010","Alpes-Maritimes","FRL03","2","Gould EA et al."
+"22",NA,"Chikungunya","2010","Alpes-Maritimes","FRL03","2",NA
+"23","France","Chikungunya","2010","Alpes-Maritimes","FRL03","2","Grandadam M et al."
+"24","France","Dengue","2010","Alpes-Maritimes","FRL03","2","La Ruche G et al."
+"25","Italy","Dengue","2020","Vicenza","ITH32","5","Lazzarini L et al."
+"26","Italy","Chikungunya","2017","Roma","ITI43","179","Manica M et al."
+"27","France","Dengue","2013","Bouches-du-Rhone","FRL04","1","Marchand E et al."
+"28","Spain","Dengue","2018","Murcia","ES620","5","Monge S et al."
+"29","France","Dengue","2010","Alpes-Maritimes","FRL03","2","Paty, M C"
+"30",NA,"Dengue","2013","Bouches-du-Rhone","FRL04","1",NA
+"31","Italy","Chikungunya","2017","Roma","ITI43","398","Rezza, G"
+"32","Italy","Chikungunya","2007","Ravenna","ITH57","175","Rezza G et al."
+"33","Italy","Chikungunya","2017","Roma","ITI43","270","Riccardo F et al."
+"34","Croatia","Dengue","2010","Dubrovacko-neretvanska zupanija","HR037","1","Schmidt-Chanasit J et al."
+"35","Italy","Chikungunya","2007","Ravenna","ITH57","214","Seyler T et al."
+"36","France","Dengue","2015","Gard","FRJ12","6","Succo T et al."
+"37","Italy","Chikungunya","2017","Roma","ITI43","200","Vairo F et al."
+"38","Spain","Dengue","2018","Barcelona","ES511","1","Valerio F et al."
+"39","Italy","Chikungunya","2017","Roma","ITI43","102","Venturi G et al."
+"40","France","Dengue","2020","Var","FRL05","2","Vermeulen TD et al."
+"41","Italy","Dengue","2023","Lodi","ITC49","6","Cassaniti I et al."
+"42","Italy","Dengue","2023","Roma","ITI43","29","De Carli G et al."
+"43","Italy","Dengue","2023","Latina","ITI44","2",NA
+"44","France","Dengue","2023","Val-de-Marne","FR107","3","Fournet N et al."
+"45","Italy","Chikungunya","2017","Roma","ITI43","200","Manica M et al."
+"46","Italy","Dengue","2023","Roma","ITI43","2","Vita S et al."
+"47","France","Dengue","2023","Paris","FR101","3","Zatta M et al."
+"48","France","Dengue","2014","Var","FRL05","1","Giron S et al."
+"49","France","Dengue","2014","Var","FRL05","1",NA
+"50","France","Dengue","2014","Bouches-du-Rhone","FRL04","2",NA
+"51","France","Dengue","2010","Alpes-Maritimes","FRL03","2","Franke F et al."
+"52","France","Chikungunya","2010","Var","FRL05","2",NA
+"53","France","Dengue","2013","Bouches-du-Rhone","FRL04","1",NA
+"54","France","Dengue","2014","Var","FRL05","1",NA
+"55","France","Dengue","2014","Var","FRL05","1",NA
+"56","France","Dengue","2014","Bouches-du-Rhone","FRL04","2",NA
+"57","France","Chikungunya","2014","Herault","FRJ13","12",NA
+"58","France","Dengue","2015","Gard","FRJ12","8",NA
+"59","France","Chikungunya","2017","Var","FRL05","LCDM : 11
+Taradeau : 6",NA
+"60","France","Dengue","2018","Var","FRL05","5",NA
+"61","France","Dengue","2018","Herault","FRJ13","2",NA
+"62","France","Dengue","2018","Gard","FRJ12","1",NA
+"63","Spain","Dengue","2018","Barcelona","ES511","1","Navero-Castillejos J et al."
+"64","Italy","Chikungunya","2007","Ravenna","ITH57","217","Liumbruno GM et al."
+"65","Italy","Chikungunya","2017","Roma","ITI43","200","Guzzetta G et al."
+"66","Croatia","Dengue","2010","Dubrovacko-neretvanska zupanija","HR037","2","Kurolt I.C. et al."
+"67","France","Dengue","2018","Var","FRL05","5","European Centre for Disease Prevention and Control (ECDC)"
+"68","France","Dengue","2018","Herault","FRJ13","1",NA
+"69","Spain","Dengue","2018","Murcia","ES620","3",NA
+"70","Spain","Dengue","2018","Murcia","ES620","5","Centro de Coordinación de Alertas y Emergencias Sanitarias; Ministerio de Sanidad, Consumo y Bienestar Social."
+"71","France","Dengue","2019","Alpes-Maritimes","FRL03","5","European Centre for Disease Prevention and Control (ECDC)"
+"72","Spain","Dengue","2019","Barcelona","ES511","1",NA
+"73","France","Dengue","2019","Rhone","FRK26","2","Santé publique France, Agence regionale de santé Auvergne-Rhone-Alpes"
+"74","France","Dengue","2020","Herault","FRJ13","1","Santé publique France, Agence régionale de santé Occitanie"
+"75","France","Dengue","2020","Var","FRL05","3","Santé publique France"
+"76","France","Dengue","2020","Alpes-Maritimes","FRL03","5",NA
+"77","France","Dengue","2020","Var","FRL05","2",NA
+"78","France","Dengue","2020","Herault","FRJ13","1",NA
+"79","France","Dengue","2020","Gard","FRJ12","1",NA
+"80","France","Dengue","2020","Gard","FRJ12","1",NA
+"81","France","Dengue","2021","Var","FRL05","1","Santé publique France"
+"82","France","Dengue","2021","Herault","FRJ13","1",NA
+"83","France","Dengue","2022","Alpes-Maritimes","FRL03","34","Santé publique France"
+"84",NA,"Dengue","2022","Var","FRL05","10",NA
+"85",NA,"Dengue","2022","Var","FRL05","7",NA
+"86",NA,"Dengue","2022","Hautes-Pyrenees","FRJ26","4",NA
+"87",NA,"Dengue","2022","Haute-Garonne","FRJ23","4",NA
+"88",NA,"Dengue","2022","Haute-Garonne","FRJ23","2",NA
+"89",NA,"Dengue","2022","Corse-du-Sud","FRM01","2",NA
+"90",NA,"Dengue","2022","Haute-Garonne","FRJ23","1",NA
+"91",NA,"Dengue","2022","Pyrenees-Orientales","FRJ15","1",NA
+"92","Spain","Dengue","2022","Eivissa y Formentera","ES531","1","Centro de Coordinación de Alertas y
+Emergencias Sanitarias; Ministerio de Sanidad, Consumo y Bienestar Social."
+"93","France","Dengue","2023","Gard","FRJ12","4","Agence Régionale de Santé Provence- Alpes-Côte d'Azur (ARS PACA)"
+"94","France","Dengue","2023","Paris","FR101","1","Agence Régionale de Santé Île-de-France"
+"95","France","Dengue","2023","Paris","FR101","3","Santé publique France"
+"96","France","Dengue","2023","Gard","FRJ12","4",NA
+"97","France","Dengue","2023","Alpes-Maritimes","FRL03","2",NA
+"98","France","Dengue","2023","Bouches-du-Rhone","FRL04","10",NA
+"99","France","Dengue","2023","Alpes-Maritimes","FRL03","1",NA
+"100","France","Dengue","2023","Pyrenees-Orientales","FRJ15","11",NA
+"101","France","Dengue","2023","Gard","FRJ12","9",NA
+"102","France","Dengue","2023","Herault","FRJ13","3",NA
+"103","France","Dengue","2023","Drome","FRK23","2",NA
+"104","Italy","Dengue","2023","Lodi","ITC49","41","Istituto Superiore di Sanità (ISS)"
+"105","Italy","Dengue","2023","Roma","ITI43","39",NA
+"106","Italy","Dengue","2023","Latina","ITI44","2",NA
+"107","Italy","Chikungunya","2017","Roma","ITI43","270","Istituto Superiore di Sanità (ISS)"
+"108","Italy","Chikungunya","2007","Ravenna","ITH57","217",NA
+"109","France","Chikungunya","2010","Alpes-Maritimes","FRL03","2",NA
+"110","France","Chikungunya","2014","Herault","FRJ13","11",NA
+"111","France","Chikungunya","2017","Var","FRL05","15",NA
+"112","Italy","Chikungunya","2017","Roma","ITI43","270",NA
+"113","France","Dengue","2010","Alpes-Maritimes","FRL03","2",NA
+"114","Croatia","Dengue","2010","Dubrovacko-neretvanska zupanija","HR037","9",NA
+"115","France","Dengue","2013","Bouches-du-Rhone","FRL04","1",NA
+"116","France","Dengue","2014","Var","FRL05","1",NA
+"117","France","Dengue","2015","Gard","FRJ12","6",NA
+"118","France","Dengue","2018","Herault","FRJ13","2",NA
+"119","Spain","Dengue","2018","Murcia","ES620","5",NA
+"120","France","Dengue","2019","Alpes-Maritimes","FRL03","5",NA
+"121","Spain","Dengue","2019","Barcelona","ES511","1",NA
+"122","France","Dengue","2020","Var","FRL05","3",NA
+"123","Italy","Dengue","2020","Treviso","ITH34","11",NA
+"124","France","Dengue","2021","Var","FRL05","1",NA
+"125","France","Dengue","2022","Alpes-Maritimes","FRL03","34",NA
+"126","Spain","Dengue","2022","Eivissa y Formentera","ES531","1",NA
+"127","France","Dengue","2023","Paris","FR101","3",NA
+"128","Italy","Dengue","2023","Lodi","ITC49","41",NA
+"129","France","Zika","2019","Alpes-Maritimes","FRL03","3",NA
